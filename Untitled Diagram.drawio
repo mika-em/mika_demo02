@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T01:02:13.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Cr9TrxtoT5U95YXSXl5H" version="20.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-19T01:05:44.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="TMqh4l1Z8Mn4OaGX0NS8" version="20.8.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="595" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,16 +318,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="1485" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="1780" />
-              <mxPoint x="290" y="1485" />
+              <mxPoint x="330" y="1780" />
+              <mxPoint x="330" y="1485" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iwm73fOLzy9ZU6IERDcX-6" value="user_input&lt;br&gt;&amp;nbsp;is a positive&lt;br&gt;integer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="1710" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="iwm73fOLzy9ZU6IERDcX-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iwm73fOLzy9ZU6IERDcX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iwm73fOLzy9ZU6IERDcX-14">
           <mxGeometry relative="1" as="geometry">
@@ -337,6 +334,9 @@
         </mxCell>
         <mxCell id="iwm73fOLzy9ZU6IERDcX-14" value="store the value&lt;br&gt;1 as a variable&lt;br&gt;&quot;xx_xx&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iwm73fOLzy9ZU6IERDcX-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1910" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
